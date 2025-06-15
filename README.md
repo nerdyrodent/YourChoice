@@ -3,6 +3,8 @@ Collaboration-OS-v1.txt is the first version of "LLM OS" - an operating system w
 
 An example module is Mary, where you take on the role of someone trying to build a sentient AI. How would YOU do it?
 
+Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
+
 ## Features
 The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
 
