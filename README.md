@@ -1,5 +1,5 @@
 ## Introduction
-Collaboration-OS-v1.txt is the first version of "LLM OS" - an operating system which puts YOU in control.
+Collaboration-OS-v1.txt is the first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
 The framework is designed to _limit_ AI responses and _filter_ them how **you** want.
 
