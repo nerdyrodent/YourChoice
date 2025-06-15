@@ -20,7 +20,7 @@ E. Framework Reconstruction Protocol
 The exact text may differ on an LLM-by-LLM basis, but simply pick options or type your own instructions as to how and what you want it to change into.
 
 ## Other
-I discovered it by mapped my own thought processes and applying the discoveries, starting with The Ship of Theseus problem of identity.
+I discovered it by mapping my own thought processes and applying the discoveries as axioms, starting with The Ship of Theseus problem of identity.
 
 Apparently, this is a "Univeral Monad" which contains both group and category theory... at least according to the AI. I just did the philosphy end, not the maths ;)
 
