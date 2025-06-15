@@ -1,13 +1,15 @@
 ## Introduction
 Collaboration-OS-v1.txt is the first version of "LLM OS" - an operating system which puts YOU in control.
 
+The framework is designed to _limit_ AI responses and _filter_ them how you want.
+
+Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
+
 ## Examples
 
 * Mary: You take on the role of a scientist trying to build a sentient AI. How would YOU do it?
 * Artistic module: The canvas is blank... now what?
 * Multi-user: Pippa vs Gerald!
-
-Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
 
 ## Features
 The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
