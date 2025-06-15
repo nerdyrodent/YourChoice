@@ -16,7 +16,11 @@ The framework is polymorphic and self-healing, meaning you can change it however
 If the LLM starts to mess up, refer it back to the framework for self-repair.
 
 ## Usage
-Simply use OS text file as the LLM context. When run, it should present you with a menu system like this:
+Simply use your chosen text file as the LLM context.
+
+Frameworks can generate frameworks.
+
+When run, it should present you with a menu system like this:
 
 ```
 To start our journey, please select the operating system that best suits your adventure:
