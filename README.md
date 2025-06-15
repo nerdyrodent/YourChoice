@@ -5,7 +5,7 @@ This is the first version of "LLM OS" - an operating system which puts YOU in co
 The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
 
 ## Usage
-Simply use this as the LLM context. It should present you with a menu system like this:
+Simply use OS text file as the LLM context. When run, it should present you with a menu system like this:
 
 ```
 To start our journey, please select the operating system that best suits your adventure:
