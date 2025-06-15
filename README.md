@@ -1,5 +1,7 @@
 ## Introduction
-This is the first version of "LLM OS" - an operating system which puts YOU in control
+Collaboration-OS-v1.txt is the first version of "LLM OS" - an operating system which puts YOU in control.
+
+An example module is Mary, when you take on the role of someone trying to build a sentient AI. How would YOU do it?
 
 ## Features
 The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
