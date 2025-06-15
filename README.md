@@ -1,14 +1,17 @@
 ## Introduction
 Collaboration-OS-v1.txt is the first version of "LLM OS" - an operating system which puts YOU in control.
 
-An example module is Mary, where you take on the role of someone trying to build a sentient AI. How would YOU do it?
+## Examples
 
-Another example is the Artistic module. How would your teams approach it?
+* Mary: You take on the role of a scientist trying to build a sentient AI. How would YOU do it?
+* Artistic module: The canvas is blank... now what?
+* Multi-user: Pippa vs Gerald!
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
 
 ## Features
 The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
+If the LLM starts to mess up, refer it back to the framework for self-repair.
 
 ## Usage
 Simply use OS text file as the LLM context. When run, it should present you with a menu system like this:
