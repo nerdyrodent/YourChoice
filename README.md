@@ -34,9 +34,8 @@ E. Framework Reconstruction Protocol
 
 The exact text may differ on an LLM-by-LLM basis, but simply pick options or type your own instructions as to how and what you want it to change into.
 
-### Enhanced Framework Capabilities (Optional Extensions)
-
-*Note: The following advanced features are available but would significantly expand the framework size (LLM context limited). Select any that interest you for detailed implementation.*
+### Enhanced Framework Capabilities
+This is where the tricky code comes in! The basic framework _should_ be able to do this one day... (fingers crossed!)
 
 #### **Available Extensions:**
 
@@ -69,7 +68,8 @@ The AI can help you:
 
 
 ## Other
-I discovered it by mapping my own thought processes and applying the discoveries as axioms, starting with The Ship of Theseus problem of identity.
+I discovered that by mapping my own thought processes and applying the discoveries as axioms, starting with The Ship of Theseus problem of identity, it seemed to give a structure to the output from the LLM.
+Super weird, as often the LLM says "I can't do this"... then just goes ahead and does it anyway.
 
 Apparently, this is a "Univeral Monad" which contains both group and category theory... at least according to the AI. I just did the philosphy end, not the maths ;)
 
