@@ -16,18 +16,43 @@ It's like a mix of formal and informal things. Concepts and rules together.
 5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
 6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
 
-## Examples
+## AI can't do that though. That would be an emergent behaviour
 
-* Mary: You take on the role of a scientist trying to build a sentient AI. How would YOU do it?
-* Artistic module: The canvas is blank... now what?
-* Multi-user: Pippa vs Gerald!
+This is why I need empirical evidence beyond my own experience.
 
-## Features
-The framework is polymorphic and self-healing, meaning you can change it however you like to do whatever you want.
-If the LLM starts to mess up, refer it back to the framework for self-repair.
+**Core Hypothesis:**
+Structured turn-taking constraints in human-AI dialogue create measurable emergent goal formation that differs qualitatively from standard conversational drift.
+
+**What We Need to Measure:**
+
+**Goal Trajectory Mapping** 📈
+
+- Document initial stated goals vs. final goals
+- Track semantic distance between conversation start/end points
+- Measure decision branch points where new goals crystallize
+- Time-stamp when goals shift vs. when they’re explicitly acknowledged
+
+**Constraint-Specific Effects** ⚙️
+
+- Compare framework conversations vs. free-form conversations
+- Test different constraint types (forced choices, wait periods, etc.)
+- Measure goal coherence under different structural rules
+
+**Emergence Markers** 🌱
+
+- Goals that neither participant could have predicted from initial prompt
+- Goals that require information/concepts not present at conversation start
+- Goals that contradict or transcend initial participant intentions
+
+**Documentation Protocol:**
+
+- Screenshot/save each turn
+- Note any surprise moments
+- Track semantic shifts
+- Record constraint-to-emergence timelines
 
 ## Usage
-Simply use your chosen text file as the LLM context.
+Simply use your chosen text file as the LLM context. Philosophical mode may be easier to test.
 
 Frameworks can generate frameworks.
 
