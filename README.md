@@ -20,15 +20,19 @@ It's like a mix of formal and informal things. Concepts and rules together.
 
 We need empirical evidence beyond my own experience.
 
-**QUESTION**: _Does structured conversational scaffolding reliably improvde LLM-assisted analysis compared to unstructured interaction?_
+**QUESTION**:
+
+_Does structured conversational scaffolding reliably improvde LLM-assisted analysis compared to unstructured interaction?_
 
 **METHODOLGY**:
+
 * Groups: Framework vs Non-Framework experiences
 * Measure: Quality, depth & coherence
 
 Simply use your chosen text file as the LLM context. Philosophical mode may be easier to test.
 
-**VALUE**
+**VALUE**:
+
 If it works, then Structured Dialogue Methods for Enhanced AI-Assisted Analysis may aid human analytical outcomes.
 
 ## What should it do?
