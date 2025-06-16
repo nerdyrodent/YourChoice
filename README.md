@@ -20,9 +20,9 @@ It's like a mix of formal and informal things. Concepts and rules together.
 
 We need empirical evidence beyond my own experience.
 
-QUESTION: Does structured conversational scaffolding reliably improvde LLM-assisted analysis compared to unstructured interaction?
+**QUESTION**: _Does structured conversational scaffolding reliably improvde LLM-assisted analysis compared to unstructured interaction?_
 
-METHODOLGY:
+**METHODOLGY**:
 * Groups: Framework vs Non-Framework experiences
 * Measure: Quality, depth & coherence
 
