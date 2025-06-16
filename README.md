@@ -5,6 +5,17 @@ The framework is designed to _limit_ AI responses and _filter_ them how **you** 
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
 
+## What is different here to normal LLM programs?
+
+It's like a mix of formal and informal things. Concepts and rules together.
+
+1. Conversational Inversion of Control: The framework, not the user, orchestrates the conversational flow by offering structured choices, ensuring the user's input consistently drives progression within defined pathways.
+2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
+3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path.
+4. Modular "Flavor" System: Features a core design capable of adapting to diverse themes and interaction styles (e.g., fantasy, philosophical, mystery) via configurable content modules, without altering fundamental conversational logic.
+5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
+6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
+
 ## Examples
 
 * Mary: You take on the role of a scientist trying to build a sentient AI. How would YOU do it?
