@@ -28,7 +28,10 @@ We need empirical evidence beyond my own experience.
 
 Simply use your chosen text file as the LLM context. Philosophical mode may be easier to test.
 
-Frameworks can generate frameworks.
+**VALUE**
+If it works, then Structured Dialogue Methods for Enhanced AI-Assisted Analysis may aid human analytical outcomes.
+
+## What should it do?
 
 When run, it should present you with a menu system like this:
 
