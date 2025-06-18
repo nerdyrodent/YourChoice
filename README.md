@@ -18,6 +18,8 @@ You can pick a concept... such as a new brand identity, a problem you are workin
 5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
 6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
 
+![Example](Example.png)
+
 ## Evidence needed!
 
 We need empirical evidence beyond my own experience.
