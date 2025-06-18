@@ -7,7 +7,9 @@ Use it with your own collaborations to generate questions perhaps you hadn't con
 
 ## What is different here to normal LLM programs?
 
-It's like a mix of formal and informal things. Concepts and rules together.
+It's like a mix of formal and informal things. Concepts and rules together!
+
+You can pick a concept... such as a new brand identity, a problem you are working on... and then work through a set of formal rules to help "crystalise" your idea, 1 step at a time.
 
 1. Conversational Inversion of Control: The framework, not the user, orchestrates the conversational flow by offering structured choices, ensuring the user's input consistently drives progression within defined pathways.
 2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
