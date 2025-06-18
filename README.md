@@ -56,20 +56,20 @@ This is where the tricky code comes in! The basic framework _should_ be able to 
 
 #### **Available Extensions:**
 
-- **State Management & Persistence** - Save/load, branching state trees, variable tracking across sessions
-- **Dynamic Content Generation** - Procedural scenarios, adaptive difficulty, emergent narrative synthesis
-- **Multi-Modal Integration** - Visual/audio components, collaborative multi-user support, interactive media
-- **Advanced Choice Architecture** - Weighted decisions, temporal mechanics, meta-choice layers, spectrum-based options
-- **Learning & Adaptation** - User preference learning, pattern recognition, self-modifying framework evolution
-- **Integration Capabilities** - External data sources, cross-framework translation, export/import protocols
-- **Self-Healing & Verification** - Automated framework integrity checks, error correction, coherence validation
+- **State Management & Persistence** - Save/load, branching state trees, variable tracking across sessions (basic implementation at the moment, in that you can save with a context summary)
+- **Dynamic Content Generation** - Procedural scenarios, adaptive difficulty, emergent narrative synthesis (certainly dynamic, no "difficulty levels" as yet)
+- **Multi-Modal Integration** - Visual/audio components, collaborative multi-user support, interactive media (LLM only right now)
+- **Advanced Choice Architecture** - Weighted decisions, temporal mechanics, meta-choice layers, spectrum-based options (It gives you choices only right now)
+- **Learning & Adaptation** - User preference learning, pattern recognition, self-modifying framework evolution (the context should become more coherent over time within a session. Framework editor does integrations)
+- **Integration Capabilities** - External data sources, cross-framework translation, export/import protocols (Data sources up to the LLM being used, basic Save feature implemented)
+- **Self-Healing & Verification** - Automated framework integrity checks, error correction, coherence validation (On command)
 
 #### **Implementation Approach:**
 
 - **Modular Addition**: Each extension can be added independently without affecting core functionality
 - **Scalable Complexity**: Features range from simple toggles to comprehensive subsystems
-- **Documentation Impact**: Full implementation would approximately double framework length
-- **Self-Verification**: Framework can validate its own coherence and suggest corrections
+- **Documentation Impact**: Full implementation would approximately double framework length (but the Framework is sort of self-explaining. The manual is "built in")
+- **Self-Verification**: Framework can validate its own coherence and suggest corrections (when you ask it to)
 
 ### Meta-Framework Collaboration
 
