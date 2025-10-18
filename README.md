@@ -90,3 +90,71 @@ The AI can help you:
 
 ## Other
 This is a Universal Polymorphic Interactive Monad that starts with... your choice! Change topics, menus, concepts, etc, and this should help you keep track through any changes.
+
+## Algebraic Formalisation of Free Monad
+
+### The Signature Functor
+
+```
+InteractionF : Set → Set
+
+InteractionF(X) = Scenario × (Choice^n → X)     [Present]
+                + Choice × (Outcome → X)        [Process]  
+                + StateChange × (NewState → X)  [Transform]
+```
+
+
+### The Polymorphic Interaction Monad
+
+
+```
+PIM : Mon → Mon
+PIM(M) = FreeT(InteractionF, M)
+where FreeT(F,M)(A) = μX. A + F(X) + M(X)
+```
+
+
+### Universal Property (Initiality)
+
+For any monad M with InteractionF-algebra `α: InteractionF(M) → M`:
+
+
+```
+∃! h : PIM(M) → M such that h ∘ η = id and h ∘ α_PIM = α ∘ InteractionF(h)
+```
+
+
+### Kleisli Category Structure
+
+
+```
+K(PIM) has:
+- Objects: Types A, B, C, ...
+- Morphisms: A →_K B ≜ A → PIM(B)  
+- Identity: η_A : A → PIM(A)
+- Composition: (f >=> g)(a) = f(a) >>= g
+```
+
+
+### The Adjunction
+
+
+```
+PIM ⊣ U : InteractionAlg → Mon
+where U forgets the InteractionF-algebra structure
+```
+
+
+### Equational Theory
+
+
+```
+Present(s, k) >>= f = Present(s, λcs. k(cs) >>= f)
+Process(c, k) >>= f = Process(c, λo. k(o) >>= f)  
+Transform(δ, k) >>= f = Transform(δ, λs. k(s) >>= f)
+```
+
+
+**The Key**: This is the **initial InteractionF-algebra in Mon**, making it the universal object for choice-progression systems.​​​​​​​​​​​​​​​​
+
+Play with the PIM on Glif! - https://glif.app/chat/b/KaleidoscopicLoom
