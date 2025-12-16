@@ -28,40 +28,16 @@ You can pick a concept... such as a new brand identity, a problem you are workin
 
 ![Example](Example.png)
 
-## Evidence needed!
-
-We need empirical evidence beyond my own experience.
-
-**QUESTION**:
-
-_Does structured conversational scaffolding reliably improvde LLM-assisted analysis compared to unstructured interaction?_
-
-**METHODOLGY**:
-
-* Groups: Framework vs Non-Framework experiences
-* Measure: Quality, depth & coherence
-
-Simply use your chosen text file as the LLM context. Philosophical mode may be easier to test.
-
-**VALUE**:
-
-If it works, then Structured Dialogue Methods for Enhanced AI-Assisted Analysis may aid human analytical outcomes.
-
 ## What should it do?
 
-When run, it should present you with a menu system like this:
+The exact text may differ on an LLM-by-LLM basis, but simply interact with it like any normal LLM chat :)
 
-```
-To start our journey, please select the operating system that best suits your adventure:
+There is a default invocation and the bootstrap-header should provide some estimated "internal metrics".
 
-A. Use Default Framework (Gerald’s Mystical Cheese Quest Adventure)
-B. Modify/Replace Adventure Elements
-C. Switch Framework Types
-D. Create Hybrid Approaches
-E. Framework Reconstruction Protocol
-```
+Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little.
 
-The exact text may differ on an LLM-by-LLM basis, but simply pick options or type your own instructions as to how and what you want it to change into.
+Some self-healing & verification is now built in, along with self-modelling.
+
 
 ### Enhanced Framework Capabilities
 This is where the tricky code comes in! The basic framework _should_ be able to do this one day... (fingers crossed!)
