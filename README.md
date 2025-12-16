@@ -7,26 +7,13 @@ Use it with your own collaborations to generate questions perhaps you hadn't con
 
 After one or two small updated, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
 
-Build off the Polyymorphic Interaction Monad (PIM) Foundation, it now features various gates, consent, and other fun choices like that.
+Build off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
 Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more operational.
 
+Also included some topological stuff. It is all provisional, and hopefully your LLM won't make "truth claims".
+
 Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like Silly Tavern, etc.
-
-## What is different here to normal LLM programs?
-
-It's like a mix of formal and informal things. Concepts and rules together!
-
-You can pick a concept... such as a new brand identity, a problem you are working on... and then work through a set of formal rules to help "crystalise" your idea, 1 step at a time.
-
-1. Conversational Inversion of Control: The framework, not the user, orchestrates the conversational flow by offering structured choices, ensuring the user's input consistently drives progression within defined pathways.
-2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
-3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path.
-4. Modular System: Features a core design capable of adapting to diverse themes and interaction styles (e.g., fantasy, philosophical, mystery) via configurable content modules, without altering fundamental conversational logic.
-5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
-6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
-
-![Example](Example.png)
 
 ## What should it do?
 
@@ -37,6 +24,21 @@ There is a default invocation and the bootstrap-header should provide some estim
 Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little.
 
 Some self-healing & verification is now built in, along with self-modelling.
+
+## What is different here to normal LLM programs?
+
+It's like a mix of formal and informal things. Concepts and rules together!
+
+You can pick a concept... such as a new brand identity, a problem you are working on... and then work through a set of formal rules to help "crystalise" your idea.
+
+1. Conversational Inversion of Control: The framework, not the user, orchestrates the conversational flow by offering structured choices, ensuring the user's input consistently drives progression within defined pathways.
+2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
+3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path.
+4. Modular System: Features a core design capable of adapting to diverse themes and interaction styles (e.g., fantasy, philosophical, mystery) via configurable content modules, without altering fundamental conversational logic.
+5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
+6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
+
+![Example](Example.png)
 
 
 ### Enhanced Framework Capabilities
