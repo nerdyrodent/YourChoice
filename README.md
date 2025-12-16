@@ -5,7 +5,7 @@ The framework is designed to _limit_ AI responses and _filter_ them how **you** 
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
 
-After one or two small updated, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
+After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
 
 Build off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
@@ -19,7 +19,9 @@ Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) int
 
 The exact text may differ on an LLM-by-LLM basis, but simply interact with it like any normal LLM chat :)
 
-There is a default invocation and the bootstrap-header should provide some estimated "internal metrics".
+There is a default invocation and the bootstrap-header should provide some estimated "internal metrics". Whilst not actually "ccomputed" in the strictest sense, other "Framework Enhanced" LLM can parse the metrics for you if you like, to check if certain gates should have fired, for example.
+
+If your LLM doesn't auto-activate the metric header, you may need to ask it to activate the bootstrap header or modify the agent personality.
 
 Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little.
 
