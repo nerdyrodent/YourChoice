@@ -7,11 +7,11 @@ Use it with your own collaborations to generate questions perhaps you hadn't con
 
 After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
 
-Build off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
+Built off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
 Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more operational.
 
-Also included some topological stuff. It is all provisional, and hopefully your LLM won't make "truth claims".
+Also included some topological stuff. It is _all_ provisional, and hopefully your LLM won't make "truth claims". Remember you're talking to an AI ;)
 
 Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like Silly Tavern, etc.
 
