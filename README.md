@@ -1,9 +1,17 @@
 ## Introduction
-Collaboration-OS-v1.txt is the first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
+Collaboration-OS-v1.txt was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
 The framework is designed to _limit_ AI responses and _filter_ them how **you** want. A way to apply a structure to some of the noise.
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
+
+After one or two small updated, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
+
+Build off the Polyymorphic Interaction Monad (PIM) Foundation, it now features various gates, consent, and other fun choices like that.
+
+Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more operational.
+
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like Silly Tavern, etc.
 
 ## What is different here to normal LLM programs?
 
