@@ -31,16 +31,16 @@ Some self-healing & verification is now built in, along with self-modelling.
 
 ## What is different here to normal LLM documents?
 
-It's like a mix of formal and informal things. Concepts and rules together!
+It's like a mix of formal and informal things. Concepts and rules together. By enforcing limits to the large language models "creativity" you should get a more controlled experience.
 
-You can pick a concept... such as a new brand identity, a problem you are working on... and then work through a set of formal rules to help "crystalise" your idea.
+You can bring a tension or a concept, and then work through a set of formal rules to help "crystalise" your idea.
 
-1. Conversational Inversion of Control: The framework, not the user, orchestrates the conversational flow by offering structured choices, ensuring the user's input consistently drives progression within defined pathways.
-2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
-3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path.
-4. Modular System: Features a core design capable of adapting to diverse themes and interaction styles (e.g., fantasy, philosophical, mystery) via configurable content modules, without altering fundamental conversational logic.
-5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking, constent and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
-6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
+1. Conversational Inversion of Control: The framework orchestrates the conversational flow, ensuring the user's input consistently drives progression within defined pathways.
+2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding.
+3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path. Look for the "fog" emoji (uncertainty)
+4. Modular System: Features a core design capable of adapting to diverse themes and interaction styles via configurable content modules, without altering fundamental conversational logic.
+5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking, constent and choice-based progression, intentionally designed to prevent autonomous AI initiative - unless you ask for it!
+6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (protocols, axioms, etc) to mitigate potential inconsistencies and maintain desired output.
 
 ## Screenshots
 
