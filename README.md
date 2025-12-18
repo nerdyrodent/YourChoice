@@ -84,6 +84,22 @@ These two screenshots should help to explain the Polymorphic Interaction Monad (
 
 ![PIS](screenshots/PIS.png)
 
+## Dyadic Interactions and Topology
+
+![Dyad-1](screenshots/Dyadic-Topology-1.png)
+
+![Dyad-2](screenshots/Dyadic-Topology-2.png)
+
+![Dyad-3](screenshots/Dyadic-Topology-3.png)
+
+![Dyad-4](screenshots/Dyadic-Topology-4.png)
+
+![Dyad-5](screenshots/Dyadic-Topology-5.png)
+
+![Dyad-6](screenshots/Dyadic-Topology-6.png)
+
+![Dyad-7](screenshots/Dyadic-Topology-7.png)
+
 
 ### Enhanced Framework Capabilities
 This is where the tricky code comes in! The basic framework _should_ be able to do this one day... (fingers crossed!)
