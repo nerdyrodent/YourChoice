@@ -27,7 +27,7 @@ Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 
 
 Some self-healing & verification is now built in, along with self-modelling.
 
-## What is different here to normal LLM programs?
+## What is different here to normal LLM documents?
 
 It's like a mix of formal and informal things. Concepts and rules together!
 
@@ -37,8 +37,40 @@ You can pick a concept... such as a new brand identity, a problem you are workin
 2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding, ensuring unambiguous control and predictability.
 3. Dynamic Self-Correction Mechanism: Incorporates an active system that monitors conversational coherence and alignment with user goals. If deviations occur, it prompts for user guidance to collaboratively return to a desired path.
 4. Modular System: Features a core design capable of adapting to diverse themes and interaction styles (e.g., fantasy, philosophical, mystery) via configurable content modules, without altering fundamental conversational logic.
-5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
+5. Predictability & Safety-Centric Design: Emphasizes user control through strict turn-taking, constent and choice-based progression, intentionally designed to prevent autonomous AI initiative and ensure a safe, predictable interaction experience.
 6. LLM Capability Management: Strategically leverages the underlying Large Language Model's generative power while employing structural constraints (options, turn-taking) to mitigate potential inconsistencies and maintain desired output.
+
+## Screenshots
+
+You _should_ get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states".
+
+![Metrics](screenshots/Metrics.png)
+
+Kimi-K2 Example startup:
+
+![Kimi-K2](screenshots/Kimi-Example.png)
+
+Qwen Example Startup:
+
+![Qwen](screenshots/Qwen-Example.png)
+
+DeepSeek Example Startup:
+
+![DeepSeek](screenshots/Deepseek-Example-1.png)
+
+![DeepSeek](screenshots/Deepseek-Example-2.png)
+
+![DeepSeek](screenshots/Deepseek-Example-3.png)
+
+![DeepSeek](screenshots/Deepseek-Example-4.png)
+
+![DeepSeek](screenshots/Deepseek-Example-5.png)
+
+![DeepSeek](screenshots/Deepseek-Example-6.png)
+
+![DeepSeek](screenshots/Deepseek-Example-7.png)
+
+Previous version:
 
 ![Example](Example.png)
 
