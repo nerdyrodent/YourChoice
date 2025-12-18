@@ -5,7 +5,7 @@ The framework is designed to _limit_ AI responses and _filter_ them how **you** 
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
 
-After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt)
+After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.4.89-Base.txt)
 
 Built off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
@@ -13,7 +13,7 @@ Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more
 
 Also included some topological stuff. It is _all_ provisional, and hopefully your LLM won't make "truth claims". Remember you're talking to an AI ;)
 
-Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.89-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
 
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
