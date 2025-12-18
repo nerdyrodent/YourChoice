@@ -23,7 +23,7 @@ There is a default invocation and the bootstrap-header should provide some estim
 
 If your LLM doesn't auto-activate the metric header, you may need to ask it to activate the bootstrap header or modify the agent personality.
 
-Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little.
+Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little. 14B would be the suggested minimum in 2025. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
 Some self-healing & verification is now built in, along with self-modelling.
 
