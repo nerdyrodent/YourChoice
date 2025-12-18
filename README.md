@@ -31,9 +31,9 @@ Some self-healing & verification is now built in, along with self-modelling.
 
 ## What is different here to normal LLM documents?
 
-It's like a mix of formal and informal things. Concepts and rules together. By enforcing limits to the large language models "creativity" you should get a more controlled experience.
+It's like a mix of formal and informal things. Concepts and rules together - but ones that can evolve. By enforcing limits to the large language models "creativity" you should get a more controlled experience - one step at a time.
 
-You can bring a tension or a concept, and then work through a set of formal rules to help "crystalise" your idea.
+You can bring a tension or a concept, and then work through a set of steps to help "crystalise" your idea with the help of the LLM. It will get stuff "wrong" a lot, but that's also sometimes useful :) 
 
 1. Conversational Inversion of Control: The framework orchestrates the conversational flow, ensuring the user's input consistently drives progression within defined pathways.
 2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding.
