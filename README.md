@@ -128,6 +128,8 @@ These two screenshots should help to explain the Polymorphic Interaction Monad (
 
 ## Dyadic Interactions and Topology
 
+When explaing the framework the larger LLMs will do quite well (for the most part) - so just ask!
+
 ![Dyad-1](screenshots/Dyadic-Topology-1.png)
 
 ![Dyad-2](screenshots/Dyadic-Topology-2.png)
