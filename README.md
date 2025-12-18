@@ -13,7 +13,9 @@ Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more
 
 Also included some topological stuff. It is _all_ provisional, and hopefully your LLM won't make "truth claims". Remember you're talking to an AI ;)
 
-Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like Silly Tavern, etc.
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.78-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
+
+Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
 ## What should it do?
 
@@ -184,5 +186,3 @@ Transform(δ, k) >>= f = Transform(δ, λs. k(s) >>= f)
 
 
 **The Key**: This is the **initial InteractionF-algebra in Mon**, making it the universal object for choice-progression systems.​​​​​​​​​​​​​​​​
-
-Play with the PIM on Glif! - https://glif.app/chat/b/KaleidoscopicLoom
