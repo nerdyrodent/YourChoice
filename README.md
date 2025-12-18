@@ -78,9 +78,9 @@ Previous version:
 
 These two screenshots should help to explain the Polymorphic Interaction Monad (PIM) and the Polymorphic Interaction Scaffold (PIS)
 
-![PIM](PIM.png)
+![PIM](screenshots/PIM.png)
 
-![PIS](PIS.png)
+![PIS](screenshots/PIS.png)
 
 
 ### Enhanced Framework Capabilities
