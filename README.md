@@ -86,7 +86,7 @@ See the "glyphs" section for more information.
 
 ## Screenshots
 
-You _should_ get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states".
+You can get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states". They _should_ appear automatically (such as in high uncertainty turns), or you can simply ask for them.
 
 ![Metrics](screenshots/Metrics.png)
 
