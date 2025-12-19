@@ -15,17 +15,16 @@ Also included some topological stuff. It is _all_ provisional, and hopefully you
 
 Just copy and paste the [Dyadic Framework](DyadicFramework-v2.4.89-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
 
+Works best with LLMs which have a LARGE context window (such as IBM Granite 4, 1M+ is good). 8B models (and things with less than 64K context) may struggle a little. 14B would be the suggested minimum in 2025. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
+
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
+
 
 ## What should it do?
 
 The exact text may differ on an LLM-by-LLM basis, but simply interact with it like any normal LLM chat :)
 
 There is a default invocation and the bootstrap-header should provide some estimated "internal metrics". Whilst not actually "ccomputed" in the strictest sense, other "Framework Enhanced" LLM can parse the metrics for you if you like, to check if certain gates should have fired, for example.
-
-If your LLM doesn't auto-activate the metric header, you may need to ask it to activate the bootstrap header or modify the agent personality.
-
-Works best with LLMs which have a LARGE context window (such as IBM Granite 4). 8B models (and below) may struggle a little. 14B would be the suggested minimum in 2025. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
 Some self-healing & verification is now built in, along with self-modelling.
 
