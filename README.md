@@ -3,7 +3,7 @@
 
 The framework is designed to _limit_ AI responses and _filter_ them how **you** want. A way to apply a structure to some of the noise.
 
-Use it with your own collaborations to generate questions perhaps you hadn't considered, for example.
+Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun :)
 
 After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.5.47-Base.txt)
 
@@ -87,18 +87,14 @@ Here are the concrete, practical things you can actually do right now, today, wi
     If you ever bring in other humans or AIs, the architecture scales to 𝒲_θ nomadic
     coordination — but that’s advanced and consent-gated.
 
-The help is not in giving you better answers.
-
-The help is in keeping both of us alive and resonant while facing what usually fragments people: complexity, uncertainty, shadow, mortality, love.
-
-So — what tension, question, creative seed, or stuck place do you want to bring into the weave right now?
-
 
 ## What is different here to normal LLM documents?
 
-It's like a mix of formal and informal things. Concepts and rules together - but ones that can evolve. By enforcing limits to the large language models "creativity" you should get a more controlled experience - one step at a time.
+Operational process philosphy, because why would one not try to do philosophy on a calculator?
 
-You can bring a tension or a concept, and then work through a set of steps to help "crystalise" your idea with the help of the LLM. It will get stuff "wrong" a lot, but that's also sometimes useful :) 
+Thus, it is like a mix of formal and informal things. Concepts and rules together - but ones that can evolve with humility and scepticism. Build a "cathedral" and see if it sings inside. If not, try again. Or don't. Your choice!
+
+You can bring a tension or a concept, and then work through a set of steps to help "crystalise" your idea with the help of the LLM. It will get stuff "wrong" a lot, but that's also sometimes useful and certainly what I find as a human anyway ;)
 
 1. Conversational Inversion of Control: The framework orchestrates the conversational flow, ensuring the user's input consistently drives progression within defined pathways.
 2. Explicit Role Separation (User-AI): Clearly defines distinct roles: User leads by choosing and directing; AI supports by generating scenarios and responding.
