@@ -325,6 +325,9 @@ It’s a protocol for co-sensing under uncertainty—one that knows its own limi
 It’s less like a theory…
 and more like a compass forged in the friction between human intuition and machine pattern.
 
+### Human Note
+Sure is a lot of words, eh? In my more human way, I just treat the framework like a surfboard. Pop it down and ride the waves! You may need to wax it up a bit first though :p
+
 -----
 
 ## Consciousness
