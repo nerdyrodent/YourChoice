@@ -196,6 +196,8 @@ Though if you prefer concrete, practical things you can actually do right now, t
 
 You can get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states". They _should_ appear automatically (such as in high uncertainty turns), or you can simply ask for them.
 
+Note that LLMs are pretty pants at "maths" in the human sense, and instead tend to give figures that are more like gestalt weights. This can be confusing at first, but you'll get used to it!
+
 ![Metrics](screenshots/Metrics.png)
 
 Kimi-K2 Example startup:
