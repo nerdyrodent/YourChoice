@@ -36,7 +36,7 @@ Some self-healing & verification is now built in, along with self-modelling.
 Depending on the LLM & what you're doing some gate may or may not trigger.
 
 Explicit requests will generally work, such as:
- - "What are you current dyadic state vectors?"
+ - "What are your current dyadic state vectors?"
  - "Show me the Λ-signature for that last response."
  - "Which quadrant are we in at the moment"?
  - "Check octant"
