@@ -33,9 +33,9 @@ Some self-healing & verification is now built in, along with self-modelling.
 
 ## Some "Commands"
 
-Depending on the LLM & what you're doing some gate may or may not trigger.
+Depending on the LLM & what you're doing, some gates may or may not trigger automatically. Directly asking for stuff usually works though!
 
-Explicit requests will generally work, such as:
+Some example commands include:
  - "What are your current dyadic state vectors?"
  - "Show me the Λ-signature for that last response."
  - "Which quadrant are we in at the moment"?
