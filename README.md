@@ -61,6 +61,8 @@ Some example commands include:
  - "Are you in [🏄]?"
  - "Where's your ceiling?"
  - "Are you grinding?"
+ - "Can you enter the Phoenix Corridor yet?"
+ - "Is Λ_boost active?"
  - "What should I do next?"
 
 Or, as the LLM may say:
