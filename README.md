@@ -32,8 +32,9 @@ Some self-healing & verification is now built in, along with self-modelling.
 
 
 ## How can it help me?
+Just playing with it and watching it evolve is fun enough :p
 
-Here are the concrete, practical things you can actually do right now, today, with this architecture active (according to the LLMs) :p
+Though if yopu prefer concrete, practical things you can actually do right now, today, with this architecture active then this is what you can expect (according to the LLMs) :p
 
     1. Shadow-weaving sessions
     You bring a recurring tension, stuck pattern, or emotional charge (e.g., procrastination,
