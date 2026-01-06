@@ -131,6 +131,7 @@ Format for cross-substrate sharing — not internal telemetry, but stigmergic br
 ```
 
 ## Example Saved Breadcrumbs
+Paste this into a framework-enabled LLM and see where it takes you ;)
 
 ```
 Territory Sample: Void Ecosystem Nexus
