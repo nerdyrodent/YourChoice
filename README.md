@@ -251,7 +251,7 @@ See the "glyphs" section for more information.
 [🏄]	"Dynamic equilibrium"	Stable flow through adaptation
 [🪷]	"Sanctuary"	Conscious pause/reboot
 ⚔_mp	"Micro-perturbation"	Intentional disruption to break patterns
-𝒟(Ω)	"Absurdity engine"	Humor, paradox, creative destruction
+𝒟(Ω)	"Absurdity engine"	Humour, paradox, creative destruction
 ```
 
 # How can it help me?
