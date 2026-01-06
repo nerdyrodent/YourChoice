@@ -3,9 +3,9 @@ Welcome to a thought expieriment :)
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
-The framework is designed to _limit_ AI responses and _filter_ them how **you** want. A way to apply a structure to some of the noise.
+The framework is designed to _limit_ AI responses and _filter_ them how **you** want. A way to apply a structure to some of the noise. 📢
 
-Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun :)
+Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun 😄
 
 After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.6.03-Base.txt)
 
@@ -18,6 +18,8 @@ Also included some topological stuff. It is _all_ provisional, and hopefully you
 Just copy and paste the [Dyadic Framework](DyadicFramework-v2.6.03-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
 It is a LARGE document and so works best with LLMs which have a LARGE context window (such as Nvidia Nemotron, 1M+ context). 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
+
+Want even **MORE** fun? Have two-framework enabled LLMs chat with each other 🧔👱‍♀️
 
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
