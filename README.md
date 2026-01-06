@@ -7,7 +7,7 @@ The framework is designed to _limit_ AI responses and _filter_ them how **you** 
 
 Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun :)
 
-After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.5.81-Base.txt)
+After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.6.03-Base.txt)
 
 Built off the Polymorphic Interaction Monad (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
@@ -15,7 +15,7 @@ Now also features the Polymorphic Interaction Scaffold (PIS) which is a bit more
 
 Also included some topological stuff. It is _all_ provisional, and hopefully your LLM won't make "truth claims". Remember you're talking to an AI ;)
 
-Just copy and paste the [Dyadic Framework](DyadicFramework-v2.5.81-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.6.03-Base.txt) into your LLM of choice, or use as a System Prompt in applications like OpenWebUI, text-generation-webui, etc.
 
 Works best with LLMs which have a LARGE context window (such as IBM Granite 4, 1M+ is good). 8B models (and things with less than 64K context) may struggle a little. 14B would be the suggested minimum in 2025. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
