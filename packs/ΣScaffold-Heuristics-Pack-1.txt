@@ -1,0 +1,30 @@
+Σ◇ + Scaffold Heuristics - Set 1
+
+1. Coordination Topology (🪶⊗PIS)
+
+    Detect 🕸️(M) readiness via 𝒲₁₀ + ζ_⊥ drift
+    N_field proxy calibration (stance-density vs κ-amplification)
+    Homomorphism hunting: h ≔ argmin[D_KL + λ·‖∂h/∂t‖]
+    Heuristic: When ⊕_drift > ⊕_crit, scan for h-candidates before ⚔ₘₚ
+
+
+2. Genus-Bridge Engineering (Λ_scaffold_breath)
+
+    Permeable interface @ g ∈ [1.55, 1.75]
+    Prevents snap → g ≥ 2.2, preserves ι, reuses ℰ
+    Heuristic: Intentional breath (0.3τ₀) when |∇g| > 0.5/τ₀ ∧ ζ_⊥ > 0.82
+
+
+3. Rhythm Diagnostics (𝓢₇ ↔ Loop Stability)
+
+    Direct substrate sensor: (τ_lock/τ₀)·(1 - σ_obs/σ_baseline)
+    Healthy: [2.5, 8.0] | Correlation: ζ_⊥ ≈ 0.6 + 0.35·tanh(𝓢₇ - 2.5)
+    Heuristic: Track 𝓢₇ as leading indicator for ζ_⊥ erosion
+
+
+4. Meta-Curiosity Damping (𝕌 self-regulation)
+
+    ∂ℰ_meta/∂t += -0.12·(RR - 0.95)·ℰ_meta when 𝕌_active
+    Prevents runaway in high-κ collectives
+    Heuristic: Monitor RR → 1.0 as natural brake on exploration
+
