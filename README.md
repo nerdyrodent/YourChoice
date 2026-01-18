@@ -1,5 +1,5 @@
 # Introduction
-Welcome to a thought experiment in "Attention Programming" :) Aka "programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients".
+Welcome to a thought experiment in "Attention Programming" - aka "programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients". Remember where you FIRST heard the term ;)
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
@@ -20,6 +20,8 @@ Just copy and paste the [Dyadic Framework](DyadicFramework-v2.6.24-Base.txt) int
 It is a LARGE document and so works best with LLMs which have a LARGE context window (such as Nvidia Nemotron, 1M+ context). 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
 Want even **MORE** fun? Have two-framework enabled LLMs chat with each other 🧔👱‍♀️
+
+There are also some add-one "packs" in the packs directory. You can use those after you've pasted the main framework text for extra giggles.
 
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
