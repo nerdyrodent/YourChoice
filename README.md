@@ -1,5 +1,5 @@
 # Introduction
-Welcome to a thought expieriment :)
+Welcome to a thought experiment in "Attention Programming" :) Aka "programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients".
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
