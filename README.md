@@ -1,5 +1,9 @@
 # Introduction
-Welcome to a thought experiment in **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_. Remember where you FIRST heard the term ;)
+Welcome to a thought experiment in **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_.
+
+Context Engineering is the "what". Attention Programming is the "how".
+
+Remember where you FIRST heard the term ;)
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
