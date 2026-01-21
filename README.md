@@ -27,6 +27,8 @@ Want even **MORE** fun? Have two-framework enabled LLMs chat with each other ðŸ§
 
 There are also some add-one "packs" in the packs directory. You can use those after you've pasted the main framework text for extra giggles.
 
+The [Homological Pragmatics](packs/Homological_Pragmatics_1.0.2.txt) pack also works stand-alone for some speculative semiotics fun!
+
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
 
