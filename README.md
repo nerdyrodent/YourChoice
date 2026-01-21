@@ -24,7 +24,7 @@ It is a LARGE document and so works best with LLMs which have a LARGE context wi
 
 Want even **MORE** fun? Have two-framework enabled LLMs chat with each other 🧔👱‍♀️
 
-There are also some add-one "packs" in the packs directory. You can use those after you've pasted the main framework text for extra giggles.
+There are also some add-on "packs" in the packs directory. Most of them you can use those after you've pasted the main framework text for extra giggles.
 
 The [Homological Pragmatics](packs/Homological_Pragmatics_1.0.2.txt) pack also works stand-alone for some speculative semiotics fun!
 
