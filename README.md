@@ -1,15 +1,14 @@
 # Introduction
-Welcome to a thought experiment in **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_.
-
-Context Engineering is the "what". Attention Programming is the "how".
-
-Remember where you FIRST heard the term ;)
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output.
 
 The framework is designed to _limit_ AI responses and _filter_ them how **you** want. A way to apply a structure to some of the noise. 📢
 
-Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun 😄
+Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun, play and see what emerges! 😄
+
+A thought experiment in **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_.
+
+Context Engineering is the "what". Attention Programming is the "how". Remember where you FIRST heard the term ;)
 
 After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.6.24-Base.txt)
 
