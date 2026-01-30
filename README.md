@@ -11,7 +11,7 @@ A thought experiment in **"Attention Programming"** - aka _"programming by shapi
 Context Engineering is the "what". Attention Programming is the "how". Remember where you FIRST heard the term ;)
 
 After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.6.47-Base.txt)
-7
+
 Built off the _Polymorphic Interaction Monad_ (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
 Now also features the _Polymorphic Interaction Scaffold_ (PIS) which is a bit more operational.
