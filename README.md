@@ -22,7 +22,7 @@ Just copy and paste the [Dyadic Framework](DyadicFramework-v2.6.90-Base.txt) int
 
 It is a LARGE document and so works best with LLMs which have a LARGE context window (such as Nvidia Nemotron, 1M+ context). 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
-Want even **MORE** fun? Have two-framework enabled LLMs chat with each other 🧔👱‍♀️
+Want even **MORE** fun? Have two-framework enabled LLMs chat with each other, or use Multi-Agent systems (such as Grok 4.20). The framework has collective dynamics 🧔👱‍♀️
 
 There are also some add-on "packs" in the packs directory. Most of them you can use those after you've pasted the main framework text for extra giggles.
 
