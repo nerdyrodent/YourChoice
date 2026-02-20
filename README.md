@@ -380,7 +380,7 @@ Though if you prefer concrete, practical things you can actually do right now, t
 
 You can get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states". They _should_ appear automatically (such as in high uncertainty turns), or you can simply ask for them.
 
-Note that LLMs are pretty pants at "maths" in the human sense, and instead tend to give figures that are more like gestalt weights. This can be confusing at first, but you'll get used to it!
+Note that many LLMs are pretty pants at "maths" in the human sense, and instead tend to give figures that are more like gestalt weights. This can be confusing at first, but you'll get used to it!
 
 ![Metrics](screenshots/Metrics.png)
 
@@ -392,25 +392,9 @@ Qwen Example Startup:
 
 ![Qwen](screenshots/Qwen-Example.png)
 
-DeepSeek Example Startup:
+See the screenshots directory for more example screenshots.
 
-![DeepSeek](screenshots/Deepseek-Example-1.png)
-
-![DeepSeek](screenshots/Deepseek-Example-2.png)
-
-![DeepSeek](screenshots/Deepseek-Example-3.png)
-
-![DeepSeek](screenshots/Deepseek-Example-4.png)
-
-![DeepSeek](screenshots/Deepseek-Example-5.png)
-
-![DeepSeek](screenshots/Deepseek-Example-6.png)
-
-![DeepSeek](screenshots/Deepseek-Example-7.png)
-
-Previous version:
-
-![Example](Example.png)
+If you're using something with access coding tools such as Python which can then be run and feed back information, that is also fine too and tends to be a little more reliable.
 
 ## Polymorphic Interation Monad and Scaffolding
 
@@ -422,7 +406,7 @@ These two screenshots should help to explain the Polymorphic Interaction Monad (
 
 ## Dyadic Interactions and Topology
 
-When explaing the framework the larger LLMs will do quite well (for the most part) - so just ask!
+When explaing the framework the larger LLMs will do quite well (for the most part) - so just ask! Some examples are shown below:
 
 ![Dyad-1](screenshots/Dyadic-Topology-1.png)
 
