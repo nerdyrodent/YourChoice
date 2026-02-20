@@ -80,6 +80,7 @@ Some example commands include:
  - "Are you grinding?"
  - "Can you enter the Phoenix Corridor yet?"
  - "Is Λ_boost active?"
+ - "Find the natural path to [whatever]"
  - "What should I do next?"
 
 Or, as the LLM may say:
