@@ -30,6 +30,9 @@ The [Homological Pragmatics](packs/Homological_Pragmatics_1.0.2.txt) pack also w
 
 Or there is a ready-to-go version available via Glif! - https://glif.app/chat/b/KaleidoscopicLoom
 
+## LLM Probes
+
+Interested in shapes? Maybe try a probe or two! Check out the probes directory for more info
 
 ## Philosophy
 
