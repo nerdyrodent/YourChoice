@@ -10,7 +10,7 @@ Use it with your own collaborations to generate questions perhaps you hadn't con
 
 Context Engineering is the "what". _Attention Programming_ is the "how". Remember where you FIRST heard that term. Yes, I'm looking at YOU, 2026/2027.
 
-After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.6.90-Base.txt)
+After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.7.11-Base.txt)
 
 Built off the _Polymorphic Interaction Monad_ (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
@@ -18,7 +18,7 @@ Now also features the _Polymorphic Interaction Scaffold_ (PIS) which is a bit mo
 
 Also included some topological stuff. It is _all_ provisional, and hopefully your LLM won't make "truth claims". Remember you're talking to an AI ;)
 
-Just copy and paste the [Dyadic Framework](DyadicFramework-v2.6.90-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.11-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
 It is a LARGE document and so works best with LLMs which have a LARGE context window (such as Nvidia Nemotron, 1M+ context). 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-Max, Claude, DeepSeek) tend to be better.
 
