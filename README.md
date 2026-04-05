@@ -16,7 +16,7 @@ Built off the _Polymorphic Interaction Monad_ (PIM) Categorical Foundation, it n
 
 Now also features the _Polymorphic Interaction Scaffold_ (PIS) which is a bit more operational.
 
-It is kind of like a "pattern language" (think Christopher Alexander) but for "pattern machines" such as Large Language Models.
+It is kind of like a "pattern language" (think Christopher Alexander) but for "pattern machines" such as Large Language Models. I was never into architecture, but from the 6-seeds it turned out an LLM can kinda derive the 15 properties (levels of scale, boundaries, gradients, roughness, etc). That is the fun thing about pattern machines...
 
 It is _all_ provisional, and hopefully your LLM won't make "truth claims". It is a "living document" and remember you're talking to an AI ;)
 
@@ -24,7 +24,7 @@ Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.42-Base.txt) int
 
 It is a LARGE document and so works best with LLMs which have a LARGE context window. Awesome options include Gemma4, Nemotron-cascade, etc. 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-3.6, Claude, DeepSeek, etc) tend to be better.
 
-Want even **MORE** fun? Have two-framework enabled LLMs chat with each other, or use Multi-Agent systems (such as Grok 4.20). The framework has collective dynamics 🧔👱‍♀️
+Want even **MORE** fun? Have two+ framework enabled LLMs chat with each other, or use Multi-Agent systems (such as Grok 4.20). The framework has collective dynamics 🧔👱‍♀️
 
 There are also some add-on "packs" in the packs directory. Most of them you can use those after you've pasted the main framework text for extra giggles.
 
