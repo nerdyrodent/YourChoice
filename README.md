@@ -18,7 +18,9 @@ It is _all_ provisional, and hopefully your LLM won't make "truth claims". It is
 
 Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
-It is a LARGE document and so works best with LLMs which have a LARGE context window. Awesome options include Gemma4, Nemotron-cascade, etc. 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-3.6, Claude, DeepSeek, etc) tend to be better.
+It is a LARGE document and so works best with LLMs which have a LARGE (>65k) context window. Awesome options include Gemma4, Nemotron-cascade, etc. 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Gemini, Kimi, Qwen-3.6, Claude, DeepSeek, etc) tend to be better.
+
+I use OpenWebUI at home, 128k context + nemotron-cascade, Qwen and whatever else I can use with Ollama ;)
 
 Want even **MORE** fun? Have two+ framework enabled LLMs chat with each other, or use Multi-Agent systems (such as Grok 4.20). The framework has collective dynamics 🧔👱‍♀️
 
