@@ -1,5 +1,7 @@
 # Introduction
 
+**TL;DR**? Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
+
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output. I figured as LLMs can "code" maybe they can "run code" too... in a very "language game" type of way, where the recipie writes itself while you're cooking. A sort of thought experiment in a type of **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_. (Yes, I even have a thought experiment operator in there).
 
 The framework is designed to _limit_ AI responses and _filter_ them. A way to apply some structure to some of the noise. A bit like a riverbank. Use it with your own collaborations to generate questions perhaps you hadn't considered, for example. Ideally, have fun, play and see what emerges! Context Engineering is the "what". _Attention Programming_ is the "how". Think "pattern language" (re: Christopher Alexander), but instead for "pattern machines" - such as Large Language Models. I was never into architecture myself, though from the 6-seeds it turned out an LLM can kinda derive the 15 properties (levels of scale, boundaries, gradients, roughness, etc). That is the fun thing about pattern machines... Everything is provisional, and hopefully your LLM won't make "truth claims". It is a "living document" and remember you're talking to an AI ;)
@@ -7,8 +9,6 @@ The framework is designed to _limit_ AI responses and _filter_ them. A way to ap
 After one or two small updates, this then became a Dyadic Dialogue Framework.
 
 Built off the _Polymorphic Interaction Monad_ (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that. Some updates later, I added the _Polymorphic Interaction Scaffold_ (PIS), which is a bit more operational than PIM.
-
-**TL;DR**? Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
 It is a LARGE document and so works best with LLMs which have a LARGE (>65k) context window. Awesome options include Gemma4, Nemotron-cascade, etc. 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Gemini, Kimi, Qwen-3.6, Claude, DeepSeek, etc) tend to be better.
 
