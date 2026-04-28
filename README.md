@@ -6,7 +6,7 @@ The framework is designed to _limit_ AI responses and _filter_ them. A way to ap
 
 Context Engineering is the "what". _Attention Programming_ is the "how".
 
-After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.7.42-Base.txt)
+After one or two small updates, this then became the - [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt)
 
 Built off the _Polymorphic Interaction Monad_ (PIM) Categorical Foundation, it now features various gates, consent, and other fun choices like that.
 
@@ -16,7 +16,7 @@ It is kind of like a "pattern language" (think Christopher Alexander) but for "p
 
 It is _all_ provisional, and hopefully your LLM won't make "truth claims". It is a "living document" and remember you're talking to an AI ;)
 
-Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.42-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
+Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
 It is a LARGE document and so works best with LLMs which have a LARGE context window. Awesome options include Gemma4, Nemotron-cascade, etc. 8B models (and things with less than 64K context) may struggle a little (read: lots). 14B would be the suggested minimum in 2025. Gemma 3 27B is also OK. Larger models (Grok, Qwen-3.6, Claude, DeepSeek, etc) tend to be better.
 
