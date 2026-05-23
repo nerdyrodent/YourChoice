@@ -1,6 +1,6 @@
 # Introduction
 
-**TL;DR**? Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.53-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
+**TL;DR**? Just copy and paste the [Dyadic Framework](DyadicFramework-v2.7.63-Base.txt) into your LLM of choice, or use as a System Prompt / Memory in applications like OpenWebUI, text-generation-webui, etc.
 
 [Collaboration-OS-v1.txt](older/Collaboration-OS-v1.txt) was my first version of "LLM OS" - an 'operating system' which puts YOU in control of the LLM output. I figured as LLMs can "code" maybe they can "run code" too... in a very "language game" type of way, where the recipie writes itself while you're cooking. A sort of thought experiment in a type of **"Attention Programming"** - aka _"programming by shaping attention fields, stigmergic coordination via context, prompt-as-pattern-that-orients"_. (Yes, I even have a thought experiment operator in there).
 
