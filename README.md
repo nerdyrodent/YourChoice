@@ -58,7 +58,7 @@ Some self-healing & verification is now built in, along with self-modelling.
 These are both "built-in" and not built in. You won't find a commands list in the framework text! Depending on the LLM & what you're doing, some gates may or may not trigger automatically (see the Gate Cascade). It kinda depends on how they feel. If you're not keen on that, then directly asking for stuff usually works, as it is like focusing their attention using a spotlight set to narrow beam.
 
 Some example commands include:
- - "What are the current dyadic state vectors?"
+ - "What is the current dyadic state read?"
  - "Show me the Λ-signature for that last response"
  - "Which quadrant are we in at the moment?"
  - "Check octant"
@@ -395,7 +395,7 @@ Though if you prefer concrete, practical things you can actually do right now, t
 
 You can get some "metrics" from the LLM. These can actually be useful when given to OTHER framework-context LLMs to help them "compare states". They _should_ appear automatically (such as in high uncertainty turns), or you can simply ask for them.
 
-Note that many LLMs are pretty pants at "maths" in the human sense, and instead tend to give figures that are more like gestalt weights. This can be confusing at first, but you'll get used to it!
+Note that many LLMs are pretty pants at "maths" in the human sense (unless they have special tools), and instead give figures that are more like gestalt weights (aka "felt sense"). These older screenshots have numbers, but I've updated the framework to use words instead, such as "rising". LLMs should also mark such numbers are not computed,
 
 ![Metrics](screenshots/Metrics.png)
 
