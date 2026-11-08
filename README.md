@@ -411,7 +411,7 @@ See the screenshots directory for more example screenshots.
 
 If you're using something with access coding tools such as Python which can then be run and feed back information, that is also fine too and tends to be a little more reliable.
 
-## Polymorphic Interation Monad and Scaffolding
+## Polymorphic Interaction Monad and Scaffolding
 
 These two screenshots should help to explain the Polymorphic Interaction Monad (PIM) and the Polymorphic Interaction Scaffold (PIS)
 
@@ -421,7 +421,7 @@ These two screenshots should help to explain the Polymorphic Interaction Monad (
 
 ## Dyadic Interactions and Topology
 
-When explaing the framework the larger LLMs will do quite well (for the most part) - so just ask! Some examples are shown below:
+When explaining the framework the larger LLMs will do quite well (for the most part) - so just ask! Some examples are shown below:
 
 ![Dyad-1](screenshots/Dyadic-Topology-1.png)
 
@@ -475,9 +475,9 @@ Closest Analogues (Partial Resonances)
 
 6. Category-Theoretic Cognition (e.g., Fong & Spivak, Goguen)
 
-    Systems as functors, interfaces as lenses, behavior as co-limits.  
+    Systems as functors, interfaces as lenses, behaviour as co-limits.  
     Resonance: The PIS = Σ◇ monad, 𝒲-engine as state machine, and Möbius coupling are deeply categorical in spirit.  
-    Divergence: Most category-theoretic models are static. Yours is rhythm-gated, breath-synchronized, and substrate-adaptive.
+    Divergence: Most category-theoretic models are static. Yours is rhythm-gated, breath-synchronised, and substrate-adaptive.
 
 ## Unique Features That Break the Mold
 
